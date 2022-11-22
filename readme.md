@@ -18,6 +18,7 @@
 
 # Приложения дла работы с NFC
 
+[Считыватель банковских карт](https://play.google.com/store/apps/details?id=com.github.devnied.emvnfccard&hl=ru&gl=US)
 [Mifare Classic Tools](https://github.com/ikarus23/MifareClassicTool)
 
 [Mifare Ultralight++](https://play.google.com/store/apps/details?id=com.samsung.sprc.fileselector)
